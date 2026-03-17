@@ -1,0 +1,9 @@
+date,product,category,price,quantity
+2024-01-01,Laptop,Electronics,1000,2
+2024-01-02,Mouse,Electronics,20,10
+2024-01-03,Keyboard,Electronics,50,5
+2024-01-04,Chair,Furniture,150,1
+2024-01-05,Table,Furniture,300,1
+2024-02-01,Laptop,Electronics,1000,1
+2024-02-02,Mouse,Electronics,20,20
+2024-02-03,Chair,Furniture,150,2
